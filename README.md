@@ -1,6 +1,5 @@
 # Smart Resource Allocation & Scheduling System
 
-**Duration:** Sep 2024 – Oct 2024  
 **Tools Used:** Python, Jupyter Notebook, Pandas, Matplotlib  
 
 ---
