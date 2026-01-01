@@ -83,4 +83,4 @@ This system can be further extended to include **predictive scheduling, dynamic 
 ## Author
 
 **Shouray Soni** – B.Tech CSE / ECE Student  
-GitHub: [https://github.com/<Shouray1104>](https://github.com/<Shouray1104>)
+GitHub: https://github.com/Shouray1104
