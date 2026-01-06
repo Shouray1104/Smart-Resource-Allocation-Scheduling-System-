@@ -4,7 +4,7 @@
 
 ---
 
-## Project Overview
+## Project Overview 
 
 This project implements a **logic-driven scheduling engine** designed to efficiently allocate multiple tasks across limited resources.  
 The main goal is to **minimize idle time** and **maximize resource utilization** by allowing resources to handle **non-overlapping tasks** based on skill, availability, and priority.  
